@@ -1,4 +1,4 @@
-# zad3
+#zad3
 
 
 tab1 = ["1.Najczęstszym sposobem spędzania wolnego czasu jest dla Ciebie",
@@ -13,6 +13,7 @@ tab2 = [
     "a) oglądanie telewizji/filmów/seriali",
     "b) czytanie książek/czasopism",
     "c)  inne,jakie ?",
+
     "a) podczas podróży",
     "b) w czasie wolnym (po pracy, na urlopie)",
     "c) inne,jakie ? Twoja odpowiedz :",
@@ -50,3 +51,4 @@ print(name)
 for i in range(0,len(tab1)):
     print(tab1[i])
     print(result[i])
+
