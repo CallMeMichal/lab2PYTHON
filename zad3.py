@@ -13,7 +13,6 @@ tab2 = [
     "a) oglądanie telewizji/filmów/seriali",
     "b) czytanie książek/czasopism",
     "c)  inne,jakie ?",
-
     "a) podczas podróży",
     "b) w czasie wolnym (po pracy, na urlopie)",
     "c) inne,jakie ? Twoja odpowiedz :",
