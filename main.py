@@ -30,7 +30,9 @@ a1=print("a) oglądanie telewizji/filmów/seriali")
 b1=print("b) czytanie książek/czasopism")
 c1=print("c) słuchanie muzyki")
 d1=print("d)  inne,jakie ?")
-aa1=input("Twoja odpowiedz :")
+aa1=input("Twoja odpowiedz :" )
+if aa1 ==
+
 
 
 q2=print("2.W jakich okolicznościach czytasz książki najczęściej?  ")
